@@ -1,0 +1,8 @@
+crfc
+rf
+crfcvcrf
+rfvc
+rfvcrvcr
+vcr
+vcrvcr
+vcrvcrgf
