@@ -48,22 +48,7 @@ class Solution {
           }
       }
       return q ; 
-    //   for (int j = 0; j < p; j++) {
-          
-    //      int y =  -1  ;   
-    //      for (int i = 0; i < n; i++) {
-    //       if (M[x.top()][i] != 0) {
-    //         y = 1 ; 
-    //         x.pop();
-    //         break ;
-    //       }
-    //     }
-    //      if(y==-1)
-    //       {
-    //          return x.top()  ;  
-    //       }
-    //   }
-    //   return -1  ;
+    
     
     }
 };
